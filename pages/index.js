@@ -1,10 +1,6 @@
 import Head from 'next/head'
 import Layout from '../components/layout'
 
-
-
-
-
 export default function Home() {
 
 
@@ -16,12 +12,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1>Start of something new </h1>
+        <h2>Learn a new word today</h2>
+        <p></p>
       </main>
 
-      <footer>
-
-      </footer>
 
     </Layout>
   )
